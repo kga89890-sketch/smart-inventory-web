@@ -1,0 +1,7 @@
+{
+  "name": "Smart Inventory AI Explorer",
+  "description": "JSON 기반 자재 관리를 AI와 결합하여 자연어 검색, 이미지 인식 및 지능형 위치 추적 기능을 제공하는 차세대 창고 관리 시스템입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
